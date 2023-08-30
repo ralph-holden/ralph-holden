@@ -5,8 +5,11 @@ I’m interested in computational chemistry.
 I’m currently studying Chemistry with Molecular Physics and a Year in Industry at Imperial College London.
 
 How to reach me:
+
 Email ralph.holden@holdenandhacking.com
+
 ORDCID https://orcid.org/0009-0001-0718-1452
+
 LinkedIn https://www.linkedin.com/in/ralph-holden/
 
 <!---
