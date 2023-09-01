@@ -2,7 +2,7 @@ Hi, I’m Ralph Holden.
 
 I’m interested in computational chemistry.
 
-I’m currently studying Chemistry with Molecular Physics and a Year in Industry at Imperial College London.
+I’m currently in my third year studying Chemistry with Molecular Physics and a Year in Industry at Imperial College London.
 
 How to reach me:
 
