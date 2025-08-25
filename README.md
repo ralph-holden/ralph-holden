@@ -1,8 +1,6 @@
 Hi, I’m Ralph Holden.
 
-I’m interested doing a PhD in computational chemistry.
-
-I’m finishing my final year studying MSci Chemistry with Molecular Physics and at Imperial College London.
+I am an Imperial College graduate currently studying for a PhD at the Max Planck Institute for Biophysics.
 
 How to reach me:
 
