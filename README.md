@@ -4,7 +4,7 @@ I am an Imperial College graduate currently studying for a PhD at the Max Planck
 
 How to reach me:
 
-Email ralph.holden@holdenandhacking.com
+Email ralph.holden@biophys.mpg.de
 
 ORDCID https://orcid.org/0009-0001-0718-1452
 
